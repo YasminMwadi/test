@@ -1,3 +1,3 @@
 # test
-this is just for learning purpose
-this is my first comment
+this is just for learning purpose.
+This is my first comment
